@@ -1,7 +1,13 @@
-# Samuel Subair — MIT 8103
+# Club Meeting Attendance
 
-Student ID: 301931344
+Samuel Subair · Student ID 301931344
 
-Club Meeting Attendance. Entities: Student, Club, Meeting, Attendance; Meeting links to Club, and Attendance links to Student and Meeting. Rule: UNIQUE(student_id, meeting_id). Useful query: list attendees for a club meeting. A SQL transaction marks attendance; MongoDB event logs snapshot the attendance with its student, meeting, and club.
+The portfolio uses fictional records for Club Meeting Attendance.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Subair_Samuel_301931344_FinalSummary.md) · [PDF](Subair_Samuel_301931344_FinalSummary.pdf)
